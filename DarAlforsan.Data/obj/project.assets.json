@@ -3788,11 +3788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\darsworck\\DarAlforsan\\DarAlforsan.Data\\DarAlforsan.Data.csproj",
+      "projectUniqueName": "D:\\daralforsanweb\\DarAlforsan.Data\\DarAlforsan.Data.csproj",
       "projectName": "DarAlforsan.Data",
-      "projectPath": "D:\\darsworck\\DarAlforsan\\DarAlforsan.Data\\DarAlforsan.Data.csproj",
+      "projectPath": "D:\\daralforsanweb\\DarAlforsan.Data\\DarAlforsan.Data.csproj",
       "packagesPath": "C:\\Users\\dars3\\.nuget\\packages\\",
-      "outputPath": "D:\\darsworck\\DarAlforsan\\DarAlforsan.Data\\obj\\",
+      "outputPath": "D:\\daralforsanweb\\DarAlforsan.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dars3\\AppData\\Roaming\\NuGet\\NuGet.Config",

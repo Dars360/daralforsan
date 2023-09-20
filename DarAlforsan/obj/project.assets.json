@@ -3769,11 +3769,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\darsworck\\DarAlforsan\\DarAlforsan\\DarAlforsan.csproj",
+      "projectUniqueName": "D:\\daralforsanweb\\DarAlforsan\\DarAlforsan.csproj",
       "projectName": "DarAlforsan",
-      "projectPath": "D:\\darsworck\\DarAlforsan\\DarAlforsan\\DarAlforsan.csproj",
+      "projectPath": "D:\\daralforsanweb\\DarAlforsan\\DarAlforsan.csproj",
       "packagesPath": "C:\\Users\\dars3\\.nuget\\packages\\",
-      "outputPath": "D:\\darsworck\\DarAlforsan\\DarAlforsan\\obj\\",
+      "outputPath": "D:\\daralforsanweb\\DarAlforsan\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dars3\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3791,8 +3791,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\darsworck\\DarAlforsan\\DarAlforsan.Data\\DarAlforsan.Data.csproj": {
-              "projectPath": "D:\\darsworck\\DarAlforsan\\DarAlforsan.Data\\DarAlforsan.Data.csproj"
+            "D:\\daralforsanweb\\DarAlforsan.Data\\DarAlforsan.Data.csproj": {
+              "projectPath": "D:\\daralforsanweb\\DarAlforsan.Data\\DarAlforsan.Data.csproj"
             }
           }
         }

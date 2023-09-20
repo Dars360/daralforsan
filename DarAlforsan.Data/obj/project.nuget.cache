@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4QmUF2DK2y4I8VJ4sHyO8QTDdXH7pio4+c8mctK+sOI/injdXPo4004Hf2zG0Xffg1hEj0+l5LEsimPmWB23Ew==",
+  "dgSpecHash": "nLSsKtM9ccOY7B90rwVP8Hwpzat41LxzyysPXQaejnHtb2KNzIOYW/ecJOVoFBcex7zNAYgz/sZYozj6wnrNOQ==",
   "success": true,
-  "projectFilePath": "D:\\darsworck\\DarAlforsan\\DarAlforsan.Data\\DarAlforsan.Data.csproj",
+  "projectFilePath": "D:\\daralforsanweb\\DarAlforsan.Data\\DarAlforsan.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dars3\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\dars3\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
